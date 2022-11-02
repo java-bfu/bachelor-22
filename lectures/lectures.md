@@ -9,3 +9,4 @@
 | 05.10.22           | 2. Базовый синтаксис               | [pdf](../lectures/lecture2/lecture2.pdf) |
 | 12.10.22           | 3. Основы ООП                      | [pdf](../lectures/lecture3/lecture3.pdf) |
 | 19.10.22, 26.10.22 | 4. Шаблоны, коллекции и Stream API | [pdf](../lectures/lecture4/lecture4.pdf) |
+| 02.11.22           | 5. Обработка ошибок                | [pdf](../lectures/lecture5/lecture5.pdf) |
